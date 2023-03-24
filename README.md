@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there, I'm Collin 👋 </h3>
 
-Hi, I'm Cameron. I am a senior at Liberty University studying mathematics. I love to learn new things and teach people about programming.
+Hi, I'm Collin. I am a senior at Liberty University studying mathematics. I love to learn new things and teach people about programming.
 
 <h3 align="center">
   Check out <a href="https://cmcdev.org">my website</a>!
