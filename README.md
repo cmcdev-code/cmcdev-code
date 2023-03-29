@@ -1,17 +1,16 @@
-<h3 align="center"> Hi there, I'm Collin 👋 </h3>
+<h1 align="Left">Hi there, I'm Collin 👋</h1>
 
-Hi, I'm Collin. I am a senior at Liberty University studying mathematics. I love to learn new things and teach people about programming.
+<h4 align="Left">Hi, I'm Collin. I am a junior at Liberty University studying applied mathematics.</h4>
 
-<h3 align="center">
-  Check out <a href="https://cmcdev.org">my website</a>!
-</h3>
+Linkedin - **[linkedin.com/in/cmcdev](https://www.linkedin.com/in/cmcdev/)**<br>
 
-<br>
+Also check out my website, [**cmcdev.org**](https://cameron.rs)
+  
 
-<a href="https://github.com/cmcdev-code">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cmcdev-code&show_icons=true&theme=apprentice&count_private=true" />
-</a>
+<span align="left">
 
-<a href="https://github.com/cmcdev-code">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdev-code&layout=compact&theme=apprentice" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdev-code&layout=compact&theme=gruvbox">
+  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=6Per97deaWqrJlKQNX8RGK&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+
+</span>
