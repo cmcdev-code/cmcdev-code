@@ -4,7 +4,7 @@
 
 Linkedin - **[linkedin.com/in/cmcdev](https://www.linkedin.com/in/cmcdev/)**<br>
 
-Also check out my website, [**cmcdev.org**](https://cameron.rs)
+Also check out my website, [**cmc.dev**](https://cmc.dev)
   
 
 <span align="left">
