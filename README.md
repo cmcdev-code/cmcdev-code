@@ -9,6 +9,6 @@ Also check out my website, [**cmc.dev**](https://cmc.dev)
 
 <span align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdev-code&layout=compact&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdev-code&layout=donut&theme=gruvbox">
   
 </span>
