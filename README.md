@@ -2,10 +2,7 @@
 
 <h4 align="Left">Hi, I'm Collin. I am a junior at Virginia Tech studying pure mathematics.</h4>
 <h4 aligb = "Left"> I like combinatorics but have been recently intrested in analysis and graph theory!</h4>
-Linkedin - **[linkedin.com/in/cmcdev](https://www.linkedin.com/in/cmcdev/)**<br>
-
-Also check out my website, [**cmc.dev**](https://cmc.dev)
-  
+Linkedin - **[linkedin.com/in/cmcdev](https://www.linkedin.com/in/cmcdev/)**<br
 
 <span align="left">
 
