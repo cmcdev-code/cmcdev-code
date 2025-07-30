@@ -5,6 +5,6 @@
 
 <span align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdev-code&layout=donut&theme=gruvbox&langs_count=10&hide=javascript,html)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdev-code&layout=donut&theme=gruvbox&langs_count=7&hide=javascript,html)">
   
 </span>
